@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ee8c47ed86de70dd",
+        "id": "48761dd66aa63a17",
         "type": "tabs",
         "children": [
           {
-            "id": "b06e5d940ccea2f3",
+            "id": "0afeaa4025c58835",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EFB105 - Cálculo Diferencial e Integral I/Continuidade de funções limitadas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "794e875cd2429653",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture notes.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture notes.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture notes.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture notes.md"
+                "file": "README.md"
               }
             }
           },
@@ -173,10 +160,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "794e875cd2429653",
+  "active": "0d990ff31412a9b1",
   "lastOpenFiles": [
-    "Lecture notes.md",
     "EFB105 - Cálculo Diferencial e Integral I/Continuidade de funções limitadas.md",
+    "README.md",
     "Excalidraw/Drawing 2024-03-26 08.40.53.excalidraw.md",
     "Excalidraw",
     "EFB105 - Cálculo Diferencial e Integral I",
