@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "74e4dc713ff8559b",
@@ -163,7 +162,9 @@
   },
   "active": "b06e5d940ccea2f3",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-03-26 08.40.53.excalidraw.md",
     "EFB105 - Cálculo Diferencial e Integral I/Continuidade de funções limitadas.md",
+    "Excalidraw",
     "EFB105 - Cálculo Diferencial e Integral I",
     "Welcome.md"
   ]

@@ -1,7 +1,9 @@
 {
-  "accentColor": "#dcc798",
+  "accentColor": "#f0cea8",
   "interfaceFontFamily": "Geist Variable",
   "textFontFamily": "Geist Variable",
   "monospaceFontFamily": "Geist Mono Variable",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "cssTheme": "Minimal",
+  "theme": "obsidian"
 }
